@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: User Story
+about: Structure for User Stories with Gherkin
 title: ''
 labels: ''
 assignees: ''
